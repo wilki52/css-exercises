@@ -79,6 +79,8 @@ a {
 .card {
   padding: 16px;
   width: 300px;
+  /* alternative to width */
+  /* flex-basis:300px; */
 }
 
 .footer {
